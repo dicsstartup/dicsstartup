@@ -48,7 +48,7 @@ DICS es posible gracias a las contribuciones de nuestros increíbles miembros de
 
 ## Licencia
 
-Todos los proyectos desarrollados bajo la iniciativa de DICS están bajo licencia GNU GPLv3. La Licencia Pública General de GNU (GPL) es una licencia copyleft que garantiza que cualquier obra derivada del código original también debe ser distribuida bajo los términos de la GPL. Esto significa que cualquier modificación o extensión del código debe permanecer abierta y libre para que otros la utilicen, modifiquen y distribuyan según los términos de la GPL..
+Todos los proyectos desarrollados bajo la iniciativa de DICS están bajo licencia Apache 2.0. La Licencia Apache 2.0 es una licencia permisiva que permite el uso, la modificación y la distribución del código, tanto en proyectos comerciales como no comerciales. Sin embargo, la licencia requiere la inclusión de un aviso de copyright y una copia de la licencia en todas las redistribuciones del software.
 
 ## Soporte
 Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarnos en  **dicsstartup@gmail.com** o en nuestro grupo de <a href="https://t.me/+xGquW2xtYXRiMDM0" target="blanck" >telegram</a>.
